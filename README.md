@@ -10,4 +10,4 @@ The project is focused on predicting the stock price of the company Netflix.
 The project is entirely carried out in Python and the [dataset](https://www.kaggle.com/dgawlik/nyse) used is freely available on Kaggle and consists of the daily prices (open, close, higher, lower) 
 of all the companies listed on the New York Stock Exchange from 2010 to 2016.
 
-The whole project can be found on the [Jupyter Notebook](NY Stock Price Prediction.ipynb) with Python code, output and comments.
+The whole project can be found on the [Jupyter Notebook](NY%20Stock%20Price%20Prediction.ipynb) with Python code, output and comments.
