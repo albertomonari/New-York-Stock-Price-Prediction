@@ -1,6 +1,6 @@
 # New-York-Stock-Price-Prediction
 
-![nyste](https://itsocial.fr/wp-content/uploads/2020/03/hero_nyse_floor_darker.jpg)
+![nyste](https://www.smartsystem.fr/wp-content/uploads/2019/02/nyse-1.jpg)
 
 It is extremely hard to predict the stock market. Stock market prediction is the act of triying to determine the future value of a company stock. 
 Predicting such an unstable market in which many external factors come into play is very difficult. 
